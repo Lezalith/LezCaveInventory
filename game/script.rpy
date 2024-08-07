@@ -112,13 +112,12 @@ screen info():
 
             vbox:
                 spacing 5
-                text "If you go through the files of this project, you will find a .zip file \"LezInventoryCode.zip\"."
-                text "Inside this zip are all the files you need to set up the Inventory."
+                text "To insert LezInventory into your project, all you need is to copy the \"lezInventory\" folder from one of this project's releases into your game folder." 
+                text "You can find releases on the right side of the GitHub page, under \"Releases\"."
 
             vbox:
                 spacing 5
-                text "It contains the Inventory code and screen, as well as the examples on how to show it."
-                text "It also contains the Items code, but doesn't include the fruit examples like this project does."
+                text "If you desire, you can delete the \"example_items\" folder inside, but they serve as amazing guidance. All of them are described in the documentation."
 
             vbox:
                 spacing 5
